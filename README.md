@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BrotherMountain/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/BrotherMountain/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/BrotherMountain/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/BrotherMountain/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/BrotherMountain/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
