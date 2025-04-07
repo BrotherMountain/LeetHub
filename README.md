@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/BrotherMountain/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
+| [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BrotherMountain/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/BrotherMountain/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/BrotherMountain/LeetHub/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/BrotherMountain/LeetHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/BrotherMountain/LeetHub/tree/master/0953-reverse-only-letters) |
+## Hash Table
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
