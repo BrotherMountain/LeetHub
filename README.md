@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/BrotherMountain/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/BrotherMountain/LeetHub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/BrotherMountain/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
