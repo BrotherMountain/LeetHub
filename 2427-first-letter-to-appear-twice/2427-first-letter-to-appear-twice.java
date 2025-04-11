@@ -2,11 +2,12 @@ class Solution {
     public char repeatedCharacter(String s) {
         HashSet<Character> set = new HashSet<>();
         for (int i = 0; i < s.length(); i++) {
-            if (set.contains(s.charAt(i))) {
-                return s.charAt(i);
+            char c = s.charAt(i);
+            if (set.contains(c)) {
+                return c;
             }
-            set.add(s.charAt(i));
+            set.add(c);
         }
-        return 'a';
+        return ' ';
     }
 }
