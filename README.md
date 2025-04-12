@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/BrotherMountain/LeetHub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/BrotherMountain/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/BrotherMountain/LeetHub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BrotherMountain/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
 ## Binary Search
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BrotherMountain/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
@@ -127,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
