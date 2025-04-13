@@ -2,22 +2,20 @@ class Solution {
     public int findMaxLength(int[] nums) {
         HashMap<Integer, Integer> counts = new HashMap<>();
         counts.put(0, -1);
-        int maxLength = 0;
-        int sum = 0;
+        int ans = 0;
+        int curr = 0;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 0) {
-                sum -= 1;
+                curr--;
             } else {
-                sum += 1;
+                curr++;
             }
-
-            if (counts.containsKey(sum)) {
-                maxLength = Math.max(maxLength, i - counts.get(sum));
+            if (counts.containsKey(curr)) {
+                ans = Math.max(ans, i - counts.get(curr));
             } else {
-                counts.put(sum, i);
+                counts.put(curr, i);
             }
         }
-
-        return maxLength;
+        return ans;
     }
 }
