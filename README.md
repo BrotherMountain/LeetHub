@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BrotherMountain/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/BrotherMountain/LeetHub/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/BrotherMountain/LeetHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/BrotherMountain/LeetHub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
