@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
