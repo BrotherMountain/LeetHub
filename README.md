@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/BrotherMountain/LeetHub/tree/master/1848-sum-of-unique-elements) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/BrotherMountain/LeetHub/tree/master/1127-last-stone-weight) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
 <!---LeetCode Topics End-->
