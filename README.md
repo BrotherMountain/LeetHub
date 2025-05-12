@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BrotherMountain/LeetHub/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/BrotherMountain/LeetHub/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/BrotherMountain/LeetHub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/BrotherMountain/LeetHub/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BrotherMountain/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BrotherMountain/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/BrotherMountain/LeetHub/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/BrotherMountain/LeetHub/tree/master/0525-contiguous-array) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/BrotherMountain/LeetHub/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/BrotherMountain/LeetHub/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -213,10 +218,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
