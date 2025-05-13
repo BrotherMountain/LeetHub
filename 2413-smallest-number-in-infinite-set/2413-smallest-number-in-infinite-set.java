@@ -12,9 +12,7 @@ class SmallestInfiniteSet {
     public int popSmallest() {
         if (heap.isEmpty()) {
             size *= 10;
-            for (int i = maxValue+1; i <= size; i++) {
-                heap.add(i);
-            }
+            scaleUp();
         }
         return heap.remove();
     }
@@ -22,13 +20,17 @@ class SmallestInfiniteSet {
     public void addBack(int num) {
         if (num >= size) {
             size = num * 10;
-            for (int i = maxValue + 1; i <= size; i++) {
-                heap.add(i);
-            }
+            scaleUp();
         }
         if (!heap.contains(num)) {
             heap.add(num);
             maxValue = Math.max(maxValue, num);
+        }
+    }
+
+    public void scaleUp() {
+        for (int i = maxValue+1; i <= size; i++) {
+            heap.add(i);
         }
     }
 }
