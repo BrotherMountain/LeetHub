@@ -20,7 +20,7 @@ class Solution {
         return dfs(root, 0);
     }
 
-        public  boolean dfs(TreeNode node, int curr) {
+    public  boolean dfs(TreeNode node, int curr) {
         if (node == null) {
             return false;
         }
