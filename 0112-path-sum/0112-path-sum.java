@@ -16,7 +16,7 @@
 class Solution {
     int target;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-                target = targetSum;
+        target = targetSum;
         return dfs(root, 0);
     }
 
