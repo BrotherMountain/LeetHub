@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -307,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
