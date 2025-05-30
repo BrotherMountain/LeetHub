@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
