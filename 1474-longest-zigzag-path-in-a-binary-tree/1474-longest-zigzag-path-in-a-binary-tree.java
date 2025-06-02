@@ -7,13 +7,13 @@ class Solution {
         return max;
     }
 
-    public void dfs(TreeNode node, int count, boolean searchLeft) {
+    public void dfs(TreeNode node, int count, boolean searchRight) {
         if (node == null) {
             return;
         }
         max = Math.max(max, count);
 
-        if (searchLeft) {
+        if (searchRight) {
             dfs(node.right, count + 1, false);
             dfs(node.left, 1, true);
         } else {
