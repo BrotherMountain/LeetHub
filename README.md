@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
