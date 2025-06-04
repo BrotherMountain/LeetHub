@@ -10,6 +10,8 @@ class Solution {
         } else {
             if (root.left == null && root.right == null) {
                 return null;
+            } else if (root.left == null) {
+                return root.right;
             } else if (root.right == null) {
                 return root.left;
             } else {
