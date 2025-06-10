@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/BrotherMountain/LeetHub/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/BrotherMountain/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/BrotherMountain/LeetHub/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/BrotherMountain/LeetHub/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1731-even-odd-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
