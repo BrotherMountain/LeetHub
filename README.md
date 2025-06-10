@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BrotherMountain/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/BrotherMountain/LeetHub/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BrotherMountain/LeetHub/tree/master/0217-contains-duplicate) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/BrotherMountain/LeetHub/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/BrotherMountain/LeetHub/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/BrotherMountain/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/BrotherMountain/LeetHub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0437-path-sum-iii) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/BrotherMountain/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/BrotherMountain/LeetHub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BrotherMountain/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/BrotherMountain/LeetHub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
