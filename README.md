@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1916-find-center-of-star-graph](https://github.com/BrotherMountain/LeetHub/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
