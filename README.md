@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/BrotherMountain/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
 |  |
