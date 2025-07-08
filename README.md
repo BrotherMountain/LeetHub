@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/BrotherMountain/LeetHub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BrotherMountain/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/BrotherMountain/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
