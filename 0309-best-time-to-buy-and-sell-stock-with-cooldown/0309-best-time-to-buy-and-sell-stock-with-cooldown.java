@@ -8,14 +8,9 @@ class Solution {
         int cooldown = 0;
 
         for (int i = 1; i < prices.length; i++) {
-            int prevHold = hold;
-            int prevCash = cash;
-            int prevCooldown = cooldown;
-
-            hold = Math.max(prevHold, prevCash - prices[i]);
-            cash = Math.max(prevCash, prevCooldown);
-
-            cooldown = prevHold + prices[i];
+            hold = Math.max(hold, cash - prices[i]);
+            cash = Math.max(cash, cooldown);
+            cooldown = hold + prices[i];
         }
         return Math.max(cash, cooldown);
     }
