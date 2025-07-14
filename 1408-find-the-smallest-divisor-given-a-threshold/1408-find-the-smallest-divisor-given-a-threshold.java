@@ -9,8 +9,8 @@ class Solution {
             int mid = left + (right - left) / 2;
 
             int result = 0;
-            for (double num : nums) {
-                result += Math.ceil(num / mid);
+            for (int num : nums) {
+                result += (num + mid - 1)/mid;
             }
 
             if (result <= threshold) {
