@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BrotherMountain/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/BrotherMountain/LeetHub/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/BrotherMountain/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/BrotherMountain/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/BrotherMountain/LeetHub/tree/master/1955-seat-reservation-manager) |
@@ -546,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
