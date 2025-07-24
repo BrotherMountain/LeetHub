@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/BrotherMountain/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/BrotherMountain/LeetHub/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Database
 |  |
 | ------- |
