@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BrotherMountain/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BrotherMountain/LeetHub/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/BrotherMountain/LeetHub/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/BrotherMountain/LeetHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BrotherMountain/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BrotherMountain/LeetHub/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0658-find-k-closest-elements) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/BrotherMountain/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0658-find-k-closest-elements) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
