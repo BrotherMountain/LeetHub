@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BrotherMountain/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/BrotherMountain/LeetHub/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/BrotherMountain/LeetHub/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/BrotherMountain/LeetHub/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bucket Sort
 |  |
