@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BrotherMountain/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/BrotherMountain/LeetHub/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
@@ -344,11 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/BrotherMountain/LeetHub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
