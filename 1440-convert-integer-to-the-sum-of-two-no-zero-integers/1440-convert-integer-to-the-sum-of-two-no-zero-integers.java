@@ -13,12 +13,11 @@ class Solution {
     return new int[] {-1,-1};
     }
     public boolean iscontainsZero(int n){
-	    char[] charArray = String.valueOf(n).toCharArray();
-	    for (char c : charArray){
-		    if (c == '0') {
-	        return true;
-	      }
-	    }
-	    return false;
+        while(n > 0){
+            int digits = n % 10;
+            if(digits == 0) return true;
+            n /= 10;
+        }
+        return false;
     }
 }
