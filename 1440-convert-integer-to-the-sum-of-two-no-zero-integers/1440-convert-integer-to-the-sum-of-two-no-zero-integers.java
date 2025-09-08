@@ -1,22 +1,24 @@
 class Solution {
-  public int[] getNoZeroIntegers(int n) {
-    int a = findA(n-1, 1);
-    return new int[]{a, n - a};
-  }
-
-  private int findA(int n, int a) {
-    char[] c1 = String.valueOf(n).toCharArray();
-    for (char c : c1) {
-      if (c == '0') {
-        return findA(n - 1, a + 1);
-      }
+    public int[] getNoZeroIntegers(int n) {
+      
+  
+       for(int i=1;i<=n;i++){
+            int a = i;
+            int b = n-i;
+            if(a>0 && b>0 && iscontainsZero(a) == false && iscontainsZero(b) == false){
+                return new int[]{a,b};
+            }
+       }
+    
+    return new int[] {-1,-1};
     }
-    char[] c2 = String.valueOf(a).toCharArray();
-    for (char c : c2) {
-      if (c == '0') {
-        return findA(n - 1, a + 1);
-      }
+    public boolean iscontainsZero(int n){
+	    char[] charArray = String.valueOf(n).toCharArray();
+	    for (char c : charArray){
+		    if (c == '0') {
+	        return true;
+	      }
+	    }
+	    return false;
     }
-    return a;
-  }
 }
