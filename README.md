@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/BrotherMountain/LeetHub/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/BrotherMountain/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/BrotherMountain/LeetHub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
