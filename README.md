@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BrotherMountain/LeetHub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BrotherMountain/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/BrotherMountain/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BrotherMountain/LeetHub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BrotherMountain/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Union Find
 |  |
@@ -638,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BrotherMountain/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BrotherMountain/LeetHub/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
