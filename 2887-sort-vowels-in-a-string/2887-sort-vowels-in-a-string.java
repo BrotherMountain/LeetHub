@@ -1,23 +1,26 @@
 class Solution {
+  private boolean isVowel(char c) {
+    return "aeiouAEIOU".indexOf(c) != -1;
+  }
+
   public String sortVowels(String s) {
-    PriorityQueue<Character> pq = new PriorityQueue<>();
-    StringBuilder sb = new StringBuilder(s);
-
+    PriorityQueue<Character> vowels = new PriorityQueue<>();
     for (char c : s.toCharArray()) {
-      if (c == 'a' || c == 'A' || c == 'e' || c == 'E' || c == 'i' || c == 'I' || c == 'o' || c == 'O' || c == 'u' || c == 'U') {
-        pq.add(c);
+      if (isVowel(c)) {
+        vowels.add(c);
       }
     }
+    if (vowels.isEmpty()) {
+      return s;
+    }
+    char[] ans = s.toCharArray();
 
-    int index = 0;
-    while (!pq.isEmpty()) {
-      if (sb.charAt(index) == 'a' || sb.charAt(index) == 'e' || sb.charAt(index) == 'i'
-          || sb.charAt(index) == 'o' || sb.charAt(index) == 'u' || sb.charAt(index) == 'A' || sb.charAt(index) == 'E' || sb.charAt(index) == 'I'
-          || sb.charAt(index) == 'O' || sb.charAt(index) == 'U') {
-        sb.replace(index, index+1, String.valueOf(pq.remove()));
+    for (int i = 0; i < ans.length; i++) {
+      if (isVowel(ans[i])) {
+        ans[i] = vowels.remove();
       }
-      index++;
     }
-    return sb.toString();
+    
+    return new String(ans);
   }
 }
