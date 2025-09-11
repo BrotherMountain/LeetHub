@@ -7,18 +7,12 @@ class Solution {
       }
     }
     int ans = 0;
-    while (!pq.isEmpty()) {
-      PriorityQueue<Integer> temp = new PriorityQueue<>();
-      int remove = pq.remove();
-      while (!pq.isEmpty()) {
-        int remove1 = pq.remove();
-        int val = remove1 - remove;
-        if (val > 0) {
-          temp.add(val);
-        }
-      }
-      pq = temp;
-      ans++;
+    while(!pq.isEmpty()){
+	    int smallest = pq.poll();
+	    ans++;
+	    while(!pq.isEmpty() && pq.peek() == smallest){
+		    pq.poll();
+	    }
     }
     return ans;
   }
