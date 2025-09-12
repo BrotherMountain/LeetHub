@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/BrotherMountain/LeetHub/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/BrotherMountain/LeetHub/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/BrotherMountain/LeetHub/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/BrotherMountain/LeetHub/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/BrotherMountain/LeetHub/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/BrotherMountain/LeetHub/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/BrotherMountain/LeetHub/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/BrotherMountain/LeetHub/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/BrotherMountain/LeetHub/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BrotherMountain/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/BrotherMountain/LeetHub/tree/master/1033-broken-calculator) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
