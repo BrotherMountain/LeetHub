@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/BrotherMountain/LeetHub/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/BrotherMountain/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BrotherMountain/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BrotherMountain/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BrotherMountain/LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2245-destroying-asteroids](https://github.com/BrotherMountain/LeetHub/tree/master/2245-destroying-asteroids) |
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BrotherMountain/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BrotherMountain/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BrotherMountain/LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/BrotherMountain/LeetHub/tree/master/2245-destroying-asteroids) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BrotherMountain/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BrotherMountain/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/BrotherMountain/LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2681-put-marbles-in-bags](https://github.com/BrotherMountain/LeetHub/tree/master/2681-put-marbles-in-bags) |
