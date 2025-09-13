@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/BrotherMountain/LeetHub/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/BrotherMountain/LeetHub/tree/master/1603-running-sum-of-1d-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/BrotherMountain/LeetHub/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BrotherMountain/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2245-destroying-asteroids](https://github.com/BrotherMountain/LeetHub/tree/master/2245-destroying-asteroids) |
 | [2331-intersection-of-multiple-arrays](https://github.com/BrotherMountain/LeetHub/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BrotherMountain/LeetHub/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/BrotherMountain/LeetHub/tree/master/1547-destination-city) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1619-path-crossing](https://github.com/BrotherMountain/LeetHub/tree/master/1619-path-crossing) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BrotherMountain/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/BrotherMountain/LeetHub/tree/master/1848-sum-of-unique-elements) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1848-sum-of-unique-elements](https://github.com/BrotherMountain/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/BrotherMountain/LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BrotherMountain/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/BrotherMountain/LeetHub/tree/master/1033-broken-calculator) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BrotherMountain/LeetHub/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/BrotherMountain/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
