@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/BrotherMountain/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/BrotherMountain/LeetHub/tree/master/0953-reverse-only-letters) |
+| [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/BrotherMountain/LeetHub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
