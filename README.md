@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/BrotherMountain/LeetHub/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/BrotherMountain/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/BrotherMountain/LeetHub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/BrotherMountain/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/BrotherMountain/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
