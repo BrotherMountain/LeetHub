@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/BrotherMountain/LeetHub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/BrotherMountain/LeetHub/tree/master/1547-destination-city) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/BrotherMountain/LeetHub/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/BrotherMountain/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/BrotherMountain/LeetHub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/BrotherMountain/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1916-find-center-of-star-graph](https://github.com/BrotherMountain/LeetHub/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -704,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BrotherMountain/LeetHub/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
