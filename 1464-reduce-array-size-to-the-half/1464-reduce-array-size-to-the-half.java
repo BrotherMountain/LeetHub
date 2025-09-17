@@ -1,32 +1,22 @@
 class Solution {
     public int minSetSize(int[] arr) {
-        
-        // Sort the input numbers.
-        Arrays.sort(arr);
-        
-        // Make the List of Counts
-        List<Integer> counts = new ArrayList<>();
-        int currentRun = 1;
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] == arr[i - 1]) {
-                currentRun += 1;
-                continue;
-            }
-            counts.add(currentRun);
-            currentRun = 1;
+        Map<Integer, Integer> countsMap = new HashMap<>();
+        for (int num : arr) {
+            countsMap.put(num, countsMap.getOrDefault(num, 0) + 1);
         }
-        counts.add(currentRun);
+
+        List<Integer> counts = new ArrayList<>(countsMap.values());
         
-        Collections.sort(counts);
-        Collections.reverse(counts);
-        
-        // Remove numbers until at least half are removed.
-        int numbersRemovedFromArr = 0;
+        counts.sort(Collections.reverseOrder());
+
+        int numbersRemoved = 0;
         int setSize = 0;
+        int targetSize = arr.length / 2;
+        
         for (int count : counts) {
-            numbersRemovedFromArr += count;
-            setSize += 1;   
-            if (numbersRemovedFromArr >= arr.length / 2) {
+            numbersRemoved += count;
+            setSize++;
+            if (numbersRemoved >= targetSize) {
                 break;
             }
         }
