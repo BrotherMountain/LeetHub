@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BrotherMountain/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/BrotherMountain/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BrotherMountain/LeetHub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/BrotherMountain/LeetHub/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BrotherMountain/LeetHub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/BrotherMountain/LeetHub/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/BrotherMountain/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/BrotherMountain/LeetHub/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
