@@ -5,4 +5,4 @@ FROM
 WHERE
     v.author_id = v.viewer_id
 ORDER BY
-    v.article_id DESC
+    v.author_id ASC
