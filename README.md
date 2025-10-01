@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/BrotherMountain/LeetHub/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/BrotherMountain/LeetHub/tree/master/1258-article-views-i) |
 | [1523-capital-gainloss](https://github.com/BrotherMountain/LeetHub/tree/master/1523-capital-gainloss) |
+| [1625-group-sold-products-by-the-date](https://github.com/BrotherMountain/LeetHub/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/BrotherMountain/LeetHub/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/BrotherMountain/LeetHub/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/BrotherMountain/LeetHub/tree/master/1892-find-total-time-spent-by-each-employee) |
