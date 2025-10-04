@@ -2,7 +2,7 @@
 # 문제 조건: user_id를 오름차순으로 정렬
 # 문제 접근: 1. 오름차순 정렬이므로 Order By user_id ASC
 # 2. user당 무료 체험판과 유료 체험판을 구분짓기 위해서 Group By user_id를 사용해야함
-# 3. 평균 일일 활동기간을 구해야하므로 ROUND(AVERAGE(SUM(activity_duration)),2)
+# 3. 평균 일일 활동기간을 구해야하므로 ROUND(AVG()),2)
 SELECT
     user_id,
     ROUND(AVG(CASE WHEN activity_type = 'free_trial' THEN activity_duration END), 2) AS trial_avg_duration,
