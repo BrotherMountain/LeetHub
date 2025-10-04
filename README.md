@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/BrotherMountain/LeetHub/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BrotherMountain/LeetHub/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/BrotherMountain/LeetHub/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/BrotherMountain/LeetHub/tree/master/3848-analyze-subscription-conversion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
