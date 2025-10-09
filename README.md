@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
