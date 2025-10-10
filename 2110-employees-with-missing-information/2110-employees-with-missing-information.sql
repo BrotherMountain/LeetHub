@@ -1,6 +1,5 @@
 # 문제 해석: 이름 또는 급여가 누락된 테이블 반환하기
 # 문제 접근: 두 테이블을 LEFT JOIN하기
-# NULL인 것만 찾아서 찾아서 아이디 반환하기 = COALESCE
 SELECT
     e.employee_id
 FROM
