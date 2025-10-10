@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BrotherMountain/LeetHub/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BrotherMountain/LeetHub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/BrotherMountain/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/BrotherMountain/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/BrotherMountain/LeetHub/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/BrotherMountain/LeetHub/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/BrotherMountain/LeetHub/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/BrotherMountain/LeetHub/tree/master/2429-design-a-food-rating-system) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -676,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/BrotherMountain/LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
