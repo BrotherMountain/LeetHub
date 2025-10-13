@@ -1,13 +1,10 @@
 class Solution {
   /**
-   * 문제 접근: 애너그램이 존재하면 애너그램 삭제하기 
+   * 문제 접근: 애너그램이 존재하면 애너그램 삭제하기
    * 애너그램 = 정렬할 경우, 두 문자열이 일치해야함
    */
   public List<String> removeAnagrams(String[] words) {
     List<String> ans = new ArrayList<>();
-    if (words == null || words.length == 0) {
-      return ans;
-    }
     ans.add(words[0]);
     for (int i = 1; i < words.length; i++) {
       String s1 = words[i];
