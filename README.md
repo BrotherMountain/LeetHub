@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/BrotherMountain/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/BrotherMountain/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/BrotherMountain/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -808,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
