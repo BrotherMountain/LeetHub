@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2793-count-the-number-of-complete-components](https://github.com/BrotherMountain/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3189-find-champion-ii) |
 ## Memoization
 |  |
 | ------- |
