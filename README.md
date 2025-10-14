@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/BrotherMountain/LeetHub/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/BrotherMountain/LeetHub/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/BrotherMountain/LeetHub/tree/master/1301-reformat-department-table) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/BrotherMountain/LeetHub/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1523-capital-gainloss](https://github.com/BrotherMountain/LeetHub/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/BrotherMountain/LeetHub/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/BrotherMountain/LeetHub/tree/master/1734-bank-account-summary-ii) |
