@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/BrotherMountain/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BrotherMountain/LeetHub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/BrotherMountain/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BrotherMountain/LeetHub/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
