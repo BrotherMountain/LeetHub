@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BrotherMountain/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/BrotherMountain/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/BrotherMountain/LeetHub/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/BrotherMountain/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/BrotherMountain/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
