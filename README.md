@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BrotherMountain/LeetHub/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
+| [4008-restore-finishing-order](https://github.com/BrotherMountain/LeetHub/tree/master/4008-restore-finishing-order) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/BrotherMountain/LeetHub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BrotherMountain/LeetHub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/BrotherMountain/LeetHub/tree/master/4008-restore-finishing-order) |
 ## Stack
 |  |
 | ------- |
