@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/BrotherMountain/LeetHub/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BrotherMountain/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/BrotherMountain/LeetHub/tree/master/1619-path-crossing) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrotherMountain/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BrotherMountain/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/BrotherMountain/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrotherMountain/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1731-even-odd-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrotherMountain/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/BrotherMountain/LeetHub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/BrotherMountain/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BrotherMountain/LeetHub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BrotherMountain/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
