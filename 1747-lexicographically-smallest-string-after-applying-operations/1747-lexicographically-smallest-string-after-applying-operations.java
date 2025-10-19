@@ -1,24 +1,24 @@
 class Solution {
     public String findLexSmallestString(String s, int a, int b) {
-        Set<String> vis = new HashSet<>();
-        String smallest = s;
-        Deque<String> q = new ArrayDeque<>();
-        q.offer(s);
-        vis.add(s);
+        Set<String> isVisited = new HashSet<>();
+        String ans = s;
+        Queue<String> queue = new LinkedList<>();
+        queue.offer(s);
+        isVisited.add(s);
 
-        while (!q.isEmpty()) {
-            String cur = q.poll();
-            if (cur.compareTo(smallest) < 0) smallest = cur;
+        while (!queue.isEmpty()) {
+            String cur = queue.poll();
+            if (cur.compareTo(ans) < 0) ans = cur;
 
             StringBuilder sb = new StringBuilder(cur);
             for (int i = 1; i < sb.length(); i += 2)
                 sb.setCharAt(i, (char) ((sb.charAt(i) - '0' + a) % 10 + '0'));
             String added = sb.toString();
-            if (vis.add(added)) q.offer(added);
+            if (isVisited.add(added)) queue.offer(added);
 
             String rotated = cur.substring(cur.length() - b) + cur.substring(0, cur.length() - b);
-            if (vis.add(rotated)) q.offer(rotated);
+            if (isVisited.add(rotated)) queue.offer(rotated);
         }
-        return smallest;
+        return ans;
     }
 }
