@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/BrotherMountain/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BrotherMountain/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BrotherMountain/LeetHub/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/BrotherMountain/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BrotherMountain/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/BrotherMountain/LeetHub/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2245-destroying-asteroids](https://github.com/BrotherMountain/LeetHub/tree/master/2245-destroying-asteroids) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/BrotherMountain/LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/BrotherMountain/LeetHub/tree/master/1464-reduce-array-size-to-the-half) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BrotherMountain/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/BrotherMountain/LeetHub/tree/master/1547-destination-city) |
@@ -860,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BrotherMountain/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
