@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/BrotherMountain/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [2128-reverse-prefix-of-word](https://github.com/BrotherMountain/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BrotherMountain/LeetHub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BrotherMountain/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -894,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
