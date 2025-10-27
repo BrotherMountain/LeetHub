@@ -1,5 +1,5 @@
 class Solution {
-public TreeNode balanceBST(TreeNode root) {
+    public TreeNode balanceBST(TreeNode root) {
         List<Integer> arr = new ArrayList<>();
         inOrder(root, arr);
 
