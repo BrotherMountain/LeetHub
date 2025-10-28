@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/BrotherMountain/LeetHub/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/BrotherMountain/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BrotherMountain/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/BrotherMountain/LeetHub/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/1319-unique-number-of-occurrences) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/BrotherMountain/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/BrotherMountain/LeetHub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BrotherMountain/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -918,4 +923,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0654-maximum-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/BrotherMountain/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
