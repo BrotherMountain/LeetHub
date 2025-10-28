@@ -4,7 +4,7 @@ class Solution {
         return build(preorder, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }
 
-private TreeNode build(int[] preorder, int lower, int upper) {
+    private TreeNode build(int[] preorder, int lower, int upper) {
         if (idx == preorder.length) {
             return null;
         }
