@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/BrotherMountain/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BrotherMountain/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BrotherMountain/LeetHub/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 | [4008-restore-finishing-order](https://github.com/BrotherMountain/LeetHub/tree/master/4008-restore-finishing-order) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BrotherMountain/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/BrotherMountain/LeetHub/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/BrotherMountain/LeetHub/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2793-count-the-number-of-complete-components](https://github.com/BrotherMountain/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3189-find-champion-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -933,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
