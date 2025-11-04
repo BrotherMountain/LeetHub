@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/BrotherMountain/LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BrotherMountain/LeetHub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/BrotherMountain/LeetHub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/BrotherMountain/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/BrotherMountain/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/BrotherMountain/LeetHub/tree/master/2379-maximum-total-importance-of-roads) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/BrotherMountain/LeetHub/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/BrotherMountain/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3189-find-champion-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BrotherMountain/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
