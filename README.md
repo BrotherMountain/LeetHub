@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/BrotherMountain/LeetHub/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/BrotherMountain/LeetHub/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BrotherMountain/LeetHub/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BrotherMountain/LeetHub/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BrotherMountain/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/BrotherMountain/LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2211-k-radius-subarray-averages](https://github.com/BrotherMountain/LeetHub/tree/master/2211-k-radius-subarray-averages) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/BrotherMountain/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BrotherMountain/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BrotherMountain/LeetHub/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/BrotherMountain/LeetHub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/BrotherMountain/LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BrotherMountain/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/BrotherMountain/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/BrotherMountain/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BrotherMountain/LeetHub/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BrotherMountain/LeetHub/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/BrotherMountain/LeetHub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/BrotherMountain/LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BrotherMountain/LeetHub/tree/master/2300-construct-string-with-repeat-limit) |
