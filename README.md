@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BrotherMountain/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/BrotherMountain/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/BrotherMountain/LeetHub/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/BrotherMountain/LeetHub/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/BrotherMountain/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/BrotherMountain/LeetHub/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/BrotherMountain/LeetHub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/BrotherMountain/LeetHub/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/BrotherMountain/LeetHub/tree/master/1738-maximal-network-rank) |
