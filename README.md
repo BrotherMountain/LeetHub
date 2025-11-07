@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-odd-and-even-transactions](https://github.com/BrotherMountain/LeetHub/tree/master/3530-odd-and-even-transactions) |
 | [3816-dna-pattern-recognition](https://github.com/BrotherMountain/LeetHub/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/BrotherMountain/LeetHub/tree/master/3848-analyze-subscription-conversion) |
+| [3898-seasonal-sales-analysis](https://github.com/BrotherMountain/LeetHub/tree/master/3898-seasonal-sales-analysis) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
