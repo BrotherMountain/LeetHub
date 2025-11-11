@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-capital-gainloss](https://github.com/BrotherMountain/LeetHub/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/BrotherMountain/LeetHub/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/BrotherMountain/LeetHub/tree/master/1734-bank-account-summary-ii) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/BrotherMountain/LeetHub/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1837-daily-leads-and-partners](https://github.com/BrotherMountain/LeetHub/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/BrotherMountain/LeetHub/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/BrotherMountain/LeetHub/tree/master/1892-find-total-time-spent-by-each-employee) |
