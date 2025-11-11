@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/BrotherMountain/LeetHub/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/BrotherMountain/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/BrotherMountain/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/BrotherMountain/LeetHub/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/BrotherMountain/LeetHub/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/BrotherMountain/LeetHub/tree/master/0525-contiguous-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BrotherMountain/LeetHub/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/BrotherMountain/LeetHub/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BrotherMountain/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/BrotherMountain/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/BrotherMountain/LeetHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BrotherMountain/LeetHub/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/BrotherMountain/LeetHub/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/BrotherMountain/LeetHub/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/BrotherMountain/LeetHub/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BrotherMountain/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
