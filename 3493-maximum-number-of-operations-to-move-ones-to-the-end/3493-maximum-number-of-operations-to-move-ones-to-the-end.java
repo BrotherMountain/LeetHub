@@ -1,4 +1,4 @@
-        class Solution {
+class Solution {
     public int maxOperations(String s) {
         int ones = 0, res = 0;
         for (int i = 0; i < s.length(); i++) {
