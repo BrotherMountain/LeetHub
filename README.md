@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/BrotherMountain/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BrotherMountain/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BrotherMountain/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/BrotherMountain/LeetHub/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/BrotherMountain/LeetHub/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/BrotherMountain/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BrotherMountain/LeetHub/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BrotherMountain/LeetHub/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/BrotherMountain/LeetHub/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BrotherMountain/LeetHub/tree/master/0695-max-area-of-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/BrotherMountain/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1380-number-of-closed-islands](https://github.com/BrotherMountain/LeetHub/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/BrotherMountain/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/BrotherMountain/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/BrotherMountain/LeetHub/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/BrotherMountain/LeetHub/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/BrotherMountain/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/BrotherMountain/LeetHub/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BrotherMountain/LeetHub/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BrotherMountain/LeetHub/tree/master/1442-number-of-operations-to-make-network-connected) |
