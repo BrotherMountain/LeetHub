@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BrotherMountain/LeetHub/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/BrotherMountain/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/BrotherMountain/LeetHub/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/BrotherMountain/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0907-koko-eating-bananas](https://github.com/BrotherMountain/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/BrotherMountain/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/BrotherMountain/LeetHub/tree/master/0967-minimum-falling-path-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/BrotherMountain/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/BrotherMountain/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/BrotherMountain/LeetHub/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BrotherMountain/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BrotherMountain/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/BrotherMountain/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/BrotherMountain/LeetHub/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/BrotherMountain/LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BrotherMountain/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/BrotherMountain/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/BrotherMountain/LeetHub/tree/master/1006-vowel-spellchecker) |
