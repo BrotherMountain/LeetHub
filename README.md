@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/BrotherMountain/LeetHub/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/BrotherMountain/LeetHub/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/BrotherMountain/LeetHub/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/BrotherMountain/LeetHub/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/BrotherMountain/LeetHub/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/BrotherMountain/LeetHub/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/BrotherMountain/LeetHub/tree/master/1327-last-person-to-fit-in-the-bus) |
