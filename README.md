@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BrotherMountain/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/BrotherMountain/LeetHub/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/BrotherMountain/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3794-reverse-string-prefix](https://github.com/BrotherMountain/LeetHub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/BrotherMountain/LeetHub/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/BrotherMountain/LeetHub/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BrotherMountain/LeetHub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
