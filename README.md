@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/BrotherMountain/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/BrotherMountain/LeetHub/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/BrotherMountain/LeetHub/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/BrotherMountain/LeetHub/tree/master/3797-design-spreadsheet) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/BrotherMountain/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BrotherMountain/LeetHub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/BrotherMountain/LeetHub/tree/master/3226-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/BrotherMountain/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/BrotherMountain/LeetHub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BrotherMountain/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BrotherMountain/LeetHub/tree/master/3616-make-array-elements-equal-to-zero) |
